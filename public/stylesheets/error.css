@@ -1,0 +1,20 @@
+body {
+    background-color: #f1fbff;
+    color: #253e4f;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+      sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  }
+  
+  .error-image {
+    max-width: 720px;
+    width: 90%;
+    margin: 2rem auto 0;
+  }
+  
+  .error-msg-container {
+    margin: 30px auto 40px auto;
+    max-width: 800px;
+    width: 80%;
+    text-align: center;
+  }
+  
